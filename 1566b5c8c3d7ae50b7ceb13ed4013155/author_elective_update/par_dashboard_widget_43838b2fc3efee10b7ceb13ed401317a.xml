@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1f6f72a3c3efee10b7ceb13ed40131e9</canvas>
+        <component display_value="Pivot Table">06f6aacbd1818110f877d87436272684</component>
+        <component_props>{"applyDateRange":false,"bareBorder":false,"colorConfig":{"type":"default"},"dataSources":[{"allowRealTime":true,"dataCategories":["group","simple","trend"],"filterQuery":"","id":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","isDatabaseView":false,"preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"sourceType":"table","tableOrViewName":"x_1551387_usmsouth_project_details","label":"Project_Details"}],"dateFormat":"default","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","followFilters":true,"freezeFirstColumn":false,"freezeFooter":false,"freezeHeader":true,"groupBy":[{"categoryIndex":0,"disableRanges":true,"groupBy":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","groupByField":"u_string_1","isRange":false,"isChoice":false,"isPaBucket":false}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":true},{"categoryIndex":0,"disableRanges":true,"groupBy":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","groupByField":"u_reference_3","isRange":false,"isChoice":false,"isPaBucket":false}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":true},{"categoryIndex":1,"disableRanges":true,"groupBy":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","groupByField":"sys_created_on","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false}],"headerTitle":"Project M","hideMatrixAggregate":false,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","id":"ZEdGaWJHVjRYekUxTlRFek9EZGZkWE50YzI5MWRHaGZjSEp2YW1WamRGOWtaWFJoYVd4ek1UYzFOalV6T1RZMU1qUXdORGcyTmpFd05UTTFMakk1TnprNU16WXoxNzU2NTM5NjUyNDA0NDMwNzgzNTQuNjc2MTAwODM1","numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"newReporting":true,"numberOfPeriods":3,"period":"M","scoreType":"latest","showAbsolutePeriod":false,"showAlternateColumnColors":false,"showAlternateRowColors":true,"showBorder":true,"showChange":false,"showChangeFrom":"previous","showChangePercentage":false,"showColumnAggregate":true,"showColumnDividers":false,"showComment":false,"showConfidenceBand":false,"showDataPassthrough":false,"showFilterIcon":true,"showFirstGroupAggregate":true,"showForecast":false,"showForecastRange":false,"showGapPercentage":false,"showHeader":true,"showHeaderSeparator":false,"showMaximumRange":false,"showMetricLabel":false,"showPivotExpanded":true,"showRowAggregate":true,"showRowDividers":false,"showSecondGroupAggregate":true,"showSparkline":false,"showSubAggregate":false,"showTarget":false,"showThreshold":false,"showTotalAggregate":true,"showTrend":false,"showZero":false,"sortBy":"value","sortByOrder":"desc","telemetry":"null","truncateColumnHeader":true,"truncateFirstColumn":true,"wrapColumnHeader":false,"wrapTitle":false,"showAdditionalGroupBySelector":true,"additionalGroupByConfig":null,"componentId":"le50r1ef","id":"metrics","value":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","id":"ZEdGaWJHVjRYekUxTlRFek9EZGZkWE50YzI5MWRHaGZjSEp2YW1WamRGOWtaWFJoYVd4ek1UYzFOalV6T1RZMU1qUXdORGcyTmpFd05UTTFMakk1TnprNU16WXoxNzU2NTM5NjUyNDA0NDMwNzgzNTQuNjc2MTAwODM1","numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"noDebounce":true,"propLabel":"Metric label","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"dataCategory":"group","allowAdditionalGroupByPerMetric":false}</component_props>
+        <h>15</h>
+        <name>Project M</name>
+        <stored_component display_value="Project M">b856fb03b11feec0e84294a26c5313e1</stored_component>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:42:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43838b2fc3efee10b7ceb13ed401317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project M</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope>
+        <sys_update_name>par_dashboard_widget_43838b2fc3efee10b7ceb13ed401317a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:42:51</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>6</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</application>
+        <file_path/>
+        <instance_id>fe2368fbebdf96588326ff72dad0cd63</instance_id>
+        <instance_name>dev294474</instance_name>
+        <name>par_dashboard_widget_43838b2fc3efee10b7ceb13ed401317a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1f6f72a3c3efee10b7ceb13ed40131e9</canvas><component display_value="Pivot Table">06f6aacbd1818110f877d87436272684</component><component_props>{"applyDateRange":false,"bareBorder":false,"colorConfig":{"type":"default"},"dataSources":[{"allowRealTime":true,"dataCategories":["group","simple","trend"],"filterQuery":"","id":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","isDatabaseView":false,"preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"sourceType":"table","tableOrViewName":"x_1551387_usmsouth_project_details","label":"Project_Details"}],"dateFormat":"default","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","followFilters":true,"freezeFirstColumn":false,"freezeFooter":false,"freezeHeader":true,"groupBy":[{"categoryIndex":0,"disableRanges":true,"groupBy":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","groupByField":"u_string_1","isRange":false,"isChoice":false,"isPaBucket":false}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":true},{"categoryIndex":0,"disableRanges":true,"groupBy":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","groupByField":"u_reference_3","isRange":false,"isChoice":false,"isPaBucket":false}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":true},{"categoryIndex":1,"disableRanges":true,"groupBy":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","groupByField":"sys_created_on","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false}],"headerTitle":"Project M","hideMatrixAggregate":false,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","id":"ZEdGaWJHVjRYekUxTlRFek9EZGZkWE50YzI5MWRHaGZjSEp2YW1WamRGOWtaWFJoYVd4ek1UYzFOalV6T1RZMU1qUXdORGcyTmpFd05UTTFMakk1TnprNU16WXoxNzU2NTM5NjUyNDA0NDMwNzgzNTQuNjc2MTAwODM1","numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"newReporting":true,"numberOfPeriods":3,"period":"M","scoreType":"latest","showAbsolutePeriod":false,"showAlternateColumnColors":false,"showAlternateRowColors":true,"showBorder":true,"showChange":false,"showChangeFrom":"previous","showChangePercentage":false,"showColumnAggregate":true,"showColumnDividers":false,"showComment":false,"showConfidenceBand":false,"showDataPassthrough":false,"showFilterIcon":true,"showFirstGroupAggregate":true,"showForecast":false,"showForecastRange":false,"showGapPercentage":false,"showHeader":true,"showHeaderSeparator":false,"showMaximumRange":false,"showMetricLabel":false,"showPivotExpanded":true,"showRowAggregate":true,"showRowDividers":false,"showSecondGroupAggregate":true,"showSparkline":false,"showSubAggregate":false,"showTarget":false,"showThreshold":false,"showTotalAggregate":true,"showTrend":false,"showZero":false,"sortBy":"value","sortByOrder":"desc","telemetry":"null","truncateColumnHeader":true,"truncateFirstColumn":true,"wrapColumnHeader":false,"wrapTitle":false,"showAdditionalGroupBySelector":true,"additionalGroupByConfig":null,"componentId":"le50r1ef","id":"metrics","value":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTY1MjQwNDg2NjEwNTM1LjI5Nzk5MzYz","id":"ZEdGaWJHVjRYekUxTlRFek9EZGZkWE50YzI5MWRHaGZjSEp2YW1WamRGOWtaWFJoYVd4ek1UYzFOalV6T1RZMU1qUXdORGcyTmpFd05UTTFMakk1TnprNU16WXoxNzU2NTM5NjUyNDA0NDMwNzgzNTQuNjc2MTAwODM1","numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"noDebounce":true,"propLabel":"Metric label","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"dataCategory":"group","allowAdditionalGroupByPerMetric":false}</component_props><h>15</h><name>Project M</name><stored_component display_value="Project M">b856fb03b11feec0e84294a26c5313e1</stored_component><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-30 07:42:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43838b2fc3efee10b7ceb13ed401317a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project M</sys_name><sys_overrides/><sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package><sys_policy/><sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope><sys_update_name>par_dashboard_widget_43838b2fc3efee10b7ceb13ed401317a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-30 07:42:51</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>6</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1674440864</payload_hash>
+        <record_name>Project M</record_name>
+        <reverted_from/>
+        <source>1d66b5c8c3d7ae50b7ceb13ed4013159</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:42:51</sys_created_on>
+        <sys_id>83838b2fc3efee10b7ceb13ed401317c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198f9edda6e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:42:51</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>87838b2ffbefee100112bd0a2d87f77b</update_guid>
+        <update_guid_history>87838b2ffbefee100112bd0a2d87f77b:1674440864</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Project M">5ce68367c3232250b7ceb13ed40131f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:57:24</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>46eb3f1a30794c7a8504ab2c1ca8df71</sys_id>
+        <sys_metadata>43838b2fc3efee10b7ceb13ed401317a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project M</sys_name>
+        <sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope>
+        <sys_scope_delete display_value="">5ce9f399c1694e2ba29320244e62f7a9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_43838b2fc3efee10b7ceb13ed401317a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_43838b2fc3efee10b7ceb13ed401317a">83838b2fc3efee10b7ceb13ed401317c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:57:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="Single score">d24d53f60350de7a652caf3188a46ed2</macroponent>
+        <name>Project Count</name>
+        <properties>{"filterConfigurations":"@state.parFilters","scoreSize":"auto","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"newReporting":false,"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"telemetry":"null","showDataPassthrough":false,"sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"showChangeFrom":false,"period":"M","dateFormat":"default","configVersion":"23.0.0-ci-SNAPSHOT","colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"sourceType":"table","tableOrViewName":"x_1551387_usmsouth_project_details","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTAwODkxNTQzMDQ2NzU2LjgxODc0NDg0","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"dGFibGV4XzE1NTEzODdfdXNtc291dGhfcHJvamVjdF9kZXRhaWxzMTc1NjUzOTAwODkxNTQzMDQ2NzU2LjgxODc0NDg0","id":"ZEdGaWJHVjRYekUxTlRFek9EZGZkWE50YzI5MWRHaGZjSEp2YW1WamRGOWtaWFJoYVd4ek1UYzFOalV6T1RBd09Ea3hOVFF6TURRMk56VTJMamd4T0RjME5EZzAxNzU2NTM5MDA4OTE1Mzg2MzA2ODcuOTY4ODQ5MzU=","aggregateFunction":"COUNT","axisId":"primary","label":"Project Count","numberFormat":{"customFormat":true,"abbreviationEnabled":false,"numberInTooltipsEnabled":false,"thousandSeparatorEnabled":true},"durationFormat":{"customFormat":false},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"headerTitle":"Project Count"}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 07:27:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e4757954b5245d5292a69f70f260681</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Project Count</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope>
+        <sys_update_name>par_visualization_0e4757954b5245d5292a69f70f260681</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 07:30:09</sys_updated_on>
+        <type>Single score</type>
+    </par_visualization>
+</record_update>

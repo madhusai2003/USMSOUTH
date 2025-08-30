@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="last_updated" label="Last Updated Ticket Info" language="en" table="x_1551387_usmsouth_project_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>last_updated</element>
+            <help/>
+            <hint/>
+            <label>Last Updated Ticket Info</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <plural>Last Updated Ticket Infos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 11:23:22</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Last Updated Ticket Info</sys_name>
+            <sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope>
+            <sys_update_name>sys_documentation_x_1551387_usmsouth_project_details_last_updated_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 11:42:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

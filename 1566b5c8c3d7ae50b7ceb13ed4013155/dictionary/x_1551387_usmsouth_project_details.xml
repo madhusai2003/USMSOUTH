@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="28bf5cdfc39b6ed0b7ceb13ed4013140" label="Project_Details" max_length="40" name="x_1551387_usmsouth_project_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Last Updated Ticket Info" max_length="40" name="last_updated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Project Lead" mandatory="true" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Project ID" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Id" max_length="40" name="u_string_2" type="string"/>
+        <element label="Modules" max_length="40" name="modules" type="glide_list"/>
+        <element label="Project Status" max_length="40" name="project_status" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Project Name" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_7" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Version Details" mandatory="true" max_length="40" name="u_string_4" type="string"/>
+        <index name="index">
+            <element name="u_reference_3"/>
+        </index>
+    </element>
+</database>

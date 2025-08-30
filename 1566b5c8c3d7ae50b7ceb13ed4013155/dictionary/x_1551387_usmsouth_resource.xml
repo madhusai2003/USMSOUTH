@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bea8ac97c31f6ed0b7ceb13ed40131cc" label="Resource" max_length="40" name="x_1551387_usmsouth_resource" type="collection">
+        <element attributes="encode_utf8=false" label="Project" max_length="32" name="project" reference="x_1551387_usmsouth_project_details" type="reference"/>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Role" max_length="40" name="role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Admin" sequence="2" value="admin"/>
+                <element inactive_on_update="false" label="Devloper" sequence="3" value="devloper"/>
+                <element inactive_on_update="false" label="Team Lead" sequence="1" value="lead"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="100" name="comments" type="string"/>
+        <element label="Project Status" max_length="40" name="project_status" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Weekly Updated" max_length="40" name="last_weekly_updated" type="glide_date_time"/>
+        <index name="index">
+            <element name="project"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

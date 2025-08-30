@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1551387_usmsouth.resource_user" name="x_1551387_usmsouth.resource_user">b6c8ecd3c31f6ed0b7ceb13ed401313f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-16 15:32:32</sys_created_on>
+        <sys_id>83c8ecd3c31f6ed0b7ceb13ed4013142</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b6c8ecd3c31f6ed0b7ceb13ed401313f</sys_name>
+        <sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope>
+        <sys_update_name>sys_embedded_help_role_83c8ecd3c31f6ed0b7ceb13ed4013142</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-16 15:32:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

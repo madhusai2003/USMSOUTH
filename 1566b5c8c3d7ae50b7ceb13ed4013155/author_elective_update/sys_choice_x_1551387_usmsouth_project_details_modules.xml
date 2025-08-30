@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="modules" table="x_1551387_usmsouth_project_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>modules</element>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:23:02</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>modules</sys_name>
+            <sys_package display_value="USMSOUTH" source="x_1551387_usmsouth">1566b5c8c3d7ae50b7ceb13ed4013155</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="USMSOUTH">1566b5c8c3d7ae50b7ceb13ed4013155</sys_scope>
+            <sys_update_name>sys_choice_x_1551387_usmsouth_project_details_modules</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:23:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ITSM</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:23:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:24:12</sys_updated_on>
+            <value>itsm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HRSD</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:23:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:24:15</sys_updated_on>
+            <value>hrsd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ITOM</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:23:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:24:18</sys_updated_on>
+            <value>itom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GRC</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:23:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:24:21</sys_updated_on>
+            <value>grc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SAM</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:28:12</sys_updated_on>
+            <value>sam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HAM</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:28:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:28:27</sys_updated_on>
+            <value>ham</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IRM</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:29:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:29:18</sys_updated_on>
+            <value>irm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>modules</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VRM</label>
+            <language>en</language>
+            <name>x_1551387_usmsouth_project_details</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-20 10:29:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-20 10:29:35</sys_updated_on>
+            <value>vrm</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
